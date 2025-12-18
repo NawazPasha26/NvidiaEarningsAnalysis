@@ -1,4 +1,3 @@
----
 
 # NVIDIA Earnings Analysis
 **Author:** Nawaz Pasha
